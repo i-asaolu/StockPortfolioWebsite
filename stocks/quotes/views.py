@@ -6,7 +6,7 @@ import requests
 import json
 
 # Replace 'public_key' with your Alpha Vantage API key
-public_key = 'MDWZ9JK2CGH7DOC2'
+public_key = ""
 
 def home(request):
     if request.method == 'POST':
